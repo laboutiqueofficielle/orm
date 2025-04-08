@@ -53,7 +53,8 @@
     "bin": ["bin/doctrine"],
     "extra": {
         "branch-alias": {
-            "dev-master": "2.7.x-dev"
+            "dev-master": "2.7.x-dev",
+            "dev-fix/galera-rollback-for-2.7.5": "2.7.5"
         }
     },
     "archive": {
